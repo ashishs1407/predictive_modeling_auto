@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/e6143669dda341dfac57455000e841d3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: e6143669dda341dfac57455000e841d3
+run_name: Light Gradient Boosting Machine
+run_uuid: e6143669dda341dfac57455000e841d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120043370
+status: 1
+tags: []
+user_id: Praful

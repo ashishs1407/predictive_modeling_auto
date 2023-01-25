@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/3a269b78232b4436a676348fbf6af60a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: 3a269b78232b4436a676348fbf6af60a
+run_name: Decision Tree Regressor
+run_uuid: 3a269b78232b4436a676348fbf6af60a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120052655
+status: 1
+tags: []
+user_id: Praful

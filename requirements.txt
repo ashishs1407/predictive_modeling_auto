@@ -1,0 +1,10 @@
+pandas 
+numpy
+matplotlib
+streamlit
+#h2o
+#sklearn
+#joblib
+pycaret
+mlflow
+-e . 

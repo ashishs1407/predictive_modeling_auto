@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/c87c6d600ef045a79ef050e034fc8321/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: c87c6d600ef045a79ef050e034fc8321
+run_name: Lasso Regression
+run_uuid: c87c6d600ef045a79ef050e034fc8321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120154024
+status: 1
+tags: []
+user_id: Praful

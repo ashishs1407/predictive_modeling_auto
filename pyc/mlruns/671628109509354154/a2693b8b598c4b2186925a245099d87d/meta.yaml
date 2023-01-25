@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/a2693b8b598c4b2186925a245099d87d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: a2693b8b598c4b2186925a245099d87d
+run_name: Least Angle Regression
+run_uuid: a2693b8b598c4b2186925a245099d87d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120153107
+status: 1
+tags: []
+user_id: Praful

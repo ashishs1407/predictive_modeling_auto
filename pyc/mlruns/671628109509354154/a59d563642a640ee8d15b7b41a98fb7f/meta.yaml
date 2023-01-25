@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/a59d563642a640ee8d15b7b41a98fb7f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: a59d563642a640ee8d15b7b41a98fb7f
+run_name: Orthogonal Matching Pursuit
+run_uuid: a59d563642a640ee8d15b7b41a98fb7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120045154
+status: 1
+tags: []
+user_id: Praful

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/4cdb908731aa4b489d3f084afdebd5b4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: 4cdb908731aa4b489d3f084afdebd5b4
+run_name: K Neighbors Regressor
+run_uuid: 4cdb908731aa4b489d3f084afdebd5b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120053232
+status: 1
+tags: []
+user_id: Praful

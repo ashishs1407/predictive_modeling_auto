@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/610ecacb19eb43e584fdd653442c6fda/artifacts
+end_time: 1674120160585
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: 610ecacb19eb43e584fdd653442c6fda
+run_name: Dummy Regressor
+run_uuid: 610ecacb19eb43e584fdd653442c6fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120159381
+status: 3
+tags: []
+user_id: Praful

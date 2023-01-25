@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/71a089612e7845d4b18d30dec41b8bd2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: 71a089612e7845d4b18d30dec41b8bd2
+run_name: Passive Aggressive Regressor
+run_uuid: 71a089612e7845d4b18d30dec41b8bd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120158530
+status: 1
+tags: []
+user_id: Praful

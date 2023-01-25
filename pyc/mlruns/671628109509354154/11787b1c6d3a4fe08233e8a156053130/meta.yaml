@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/11787b1c6d3a4fe08233e8a156053130/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: 11787b1c6d3a4fe08233e8a156053130
+run_name: Elastic Net
+run_uuid: 11787b1c6d3a4fe08233e8a156053130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120155056
+status: 1
+tags: []
+user_id: Praful

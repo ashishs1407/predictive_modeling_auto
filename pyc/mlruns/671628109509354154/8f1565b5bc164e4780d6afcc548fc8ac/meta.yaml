@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/8f1565b5bc164e4780d6afcc548fc8ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: 8f1565b5bc164e4780d6afcc548fc8ac
+run_name: Linear Regression
+run_uuid: 8f1565b5bc164e4780d6afcc548fc8ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120154633
+status: 1
+tags: []
+user_id: Praful

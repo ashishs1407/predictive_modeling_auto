@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/70ee055fd8544897915bc81ed715a878/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: 70ee055fd8544897915bc81ed715a878
+run_name: Ridge Regression
+run_uuid: 70ee055fd8544897915bc81ed715a878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120044111
+status: 1
+tags: []
+user_id: Praful

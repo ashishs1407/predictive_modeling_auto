@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/91911f23adbf4a969b87544788391bc8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: 91911f23adbf4a969b87544788391bc8
+run_name: Gradient Boosting Regressor
+run_uuid: 91911f23adbf4a969b87544788391bc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120040987
+status: 1
+tags: []
+user_id: Praful

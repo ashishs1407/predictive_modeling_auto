@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/bc21bb13bc784e12a5e79fe94555c8f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: bc21bb13bc784e12a5e79fe94555c8f9
+run_name: Bayesian Ridge
+run_uuid: bc21bb13bc784e12a5e79fe94555c8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120156042
+status: 1
+tags: []
+user_id: Praful

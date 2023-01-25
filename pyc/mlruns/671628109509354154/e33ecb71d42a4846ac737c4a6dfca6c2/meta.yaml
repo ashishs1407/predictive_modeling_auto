@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/e33ecb71d42a4846ac737c4a6dfca6c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: e33ecb71d42a4846ac737c4a6dfca6c2
+run_name: Extra Trees Regressor
+run_uuid: e33ecb71d42a4846ac737c4a6dfca6c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120042243
+status: 1
+tags: []
+user_id: Praful

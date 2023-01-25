@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/d45d3337101d4c18ab040eb4064a7ce8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: d45d3337101d4c18ab040eb4064a7ce8
+run_name: Huber Regressor
+run_uuid: d45d3337101d4c18ab040eb4064a7ce8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120052080
+status: 1
+tags: []
+user_id: Praful

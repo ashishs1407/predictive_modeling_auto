@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/54f35d4526104278b8fcd283462f59fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: 54f35d4526104278b8fcd283462f59fb
+run_name: Random Forest Regressor
+run_uuid: 54f35d4526104278b8fcd283462f59fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120152357
+status: 1
+tags: []
+user_id: Praful

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Praful/Desktop/project/evalml/webapp/pyc/mlruns/671628109509354154/ea70232d02ed4f1693f4353096c57439/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '671628109509354154'
+lifecycle_stage: active
+run_id: ea70232d02ed4f1693f4353096c57439
+run_name: AdaBoost Regressor
+run_uuid: ea70232d02ed4f1693f4353096c57439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674120155495
+status: 1
+tags: []
+user_id: Praful
