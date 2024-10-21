@@ -20,6 +20,8 @@ setup(
         "Operating System :: Unix",
         "Operating System :: MacOS :: MacOS X",
         "Operating System :: Microsoft :: Windows",
+        "github_link :: https://github.com/ashishs1407/predictive_modeling_auto "
+                    
     ]
 
 )
