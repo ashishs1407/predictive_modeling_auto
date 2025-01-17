@@ -59,10 +59,10 @@ For more detailed usage instructions, refer to the documentation in the docs dir
 ## Contributing
 Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to contribute to this project.
 
-### License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-### Contact
+## Contact
 If you have any questions or suggestions, feel free to reach out:
 Author: Ashish Shimpi
 Email: a.shimpi93@gmail.com
