@@ -7,7 +7,6 @@ Welcome to the Predictive Modeling Auto repository. This project aims to automat
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -56,23 +55,6 @@ pipeline.evaluate_model(model, data)
 For more detailed usage instructions, refer to the documentation in the docs directory.
 ```
 
-## Project Structure
-predictive_modeling_auto/
-│
-├── data/                   # Sample datasets
-├── docs/                   # Documentation files
-├── models/                 # Trained model files
-├── notebooks/              # Jupyter notebooks for experiments
-├── pyc/                    # Source code
-│   ├── __init__.py
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   └── model_evaluation.py
-├── tests/                  # Unit tests
-├── .gitignore              # Git ignore file
-├── README.md               # Project README file
-├── requirements.txt        # Dependencies
-└── setup.py                # Setup script for packaging
 
 ## Contributing
 Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to contribute to this project.
@@ -82,6 +64,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ### Contact
 If you have any questions or suggestions, feel free to reach out:
-    Author: Ashish Shimpi
-    Email: a.shimpi93@gmail.com
-    GitHub: ashishs1407
+Author: Ashish Shimpi
+Email: a.shimpi93@gmail.com
+GitHub: ashishs1407
