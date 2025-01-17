@@ -7,7 +7,7 @@ def read(fname):
 
 setup(
     name='predictive_modeling_auto',
-    version='0.2.0',
+    version='0.2.1',
     author='Ashish Shimpi',
     author_email='a.shimpi93@gmail.com',
     description='A package for automating predictive modeling tasks using Python',
