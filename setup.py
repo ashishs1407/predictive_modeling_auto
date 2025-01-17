@@ -2,7 +2,7 @@ from setuptools import setup,find_packages
 
 setup(
     name = "pyc_regressor",
-    version= '0.0.1',
+    version= '0.0.2',
     description="This is a pycaret regressor package.",
     long_description_content_type="text/markdown",
     LONG_DESCRIPTION = '''
@@ -13,6 +13,10 @@ setup(
     packages = find_packages(),
     py_modules=[],
     keywords=['python', 'tutorial', 'Auto-regressor', 'ashish shimpi'],
+    project_urls={
+    'Source': 'https://github.com/ashishs1407/predictive_modeling_auto',
+    'Tracker': 'https://github.com/ashishs1407/predictive_modeling_auto/issues',
+    },
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
@@ -20,7 +24,6 @@ setup(
         "Operating System :: Unix",
         "Operating System :: MacOS :: MacOS X",
         "Operating System :: Microsoft :: Windows",
-        "github_link :: https://github.com/ashishs1407/predictive_modeling_auto "
                     
     ]
 
