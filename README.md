@@ -33,10 +33,10 @@ cd predictive_modeling_auto
 
 # Install the required packages
 pip install -r requirements.txt
-Usage
+```
+## Usage
 Here is a simple example of how to use this project:
-
-Python
+```Python
 from predictive_modeling_auto import ModelPipeline
 
 # Initialize the pipeline
@@ -54,8 +54,9 @@ model = pipeline.train_model(data)
 # Evaluate the model
 pipeline.evaluate_model(model, data)
 For more detailed usage instructions, refer to the documentation in the docs directory.
+```
 
-Project Structure
+## Project Structure
 Code
 predictive_modeling_auto/
 │
@@ -63,7 +64,7 @@ predictive_modeling_auto/
 ├── docs/                   # Documentation files
 ├── models/                 # Trained model files
 ├── notebooks/              # Jupyter notebooks for experiments
-├── src/                    # Source code
+├── pyc/                    # Source code
 │   ├── __init__.py
 │   ├── data_preprocessing.py
 │   ├── model_training.py
@@ -76,12 +77,12 @@ predictive_modeling_auto/
 Contributing
 Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to contribute to this project.
 
-License
+### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+### Contact
 If you have any questions or suggestions, feel free to reach out:
-
-Author: Ashish Shimpi
-Email: a.shimpi93@gmail.com
-GitHub: ashishs1407
+``` Author: Ashish Shimpi
+    Email: a.shimpi93@gmail.com
+    GitHub: ashishs1407
+```
