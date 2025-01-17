@@ -64,6 +64,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
-Author: Ashish Shimpi
-Email: a.shimpi93@gmail.com
-GitHub: ashishs1407
+
+- **Author:** Ashish Shimpi
+- **Email:** a.shimpi93@gmail.com
+- **GitHub:** ashishs1407
