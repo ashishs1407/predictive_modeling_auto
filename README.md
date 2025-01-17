@@ -57,7 +57,6 @@ For more detailed usage instructions, refer to the documentation in the docs dir
 ```
 
 ## Project Structure
-Code
 predictive_modeling_auto/
 │
 ├── data/                   # Sample datasets
@@ -74,7 +73,8 @@ predictive_modeling_auto/
 ├── README.md               # Project README file
 ├── requirements.txt        # Dependencies
 └── setup.py                # Setup script for packaging
-Contributing
+
+## Contributing
 Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to contribute to this project.
 
 ### License
@@ -82,7 +82,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ### Contact
 If you have any questions or suggestions, feel free to reach out:
-``` Author: Ashish Shimpi
+    Author: Ashish Shimpi
     Email: a.shimpi93@gmail.com
     GitHub: ashishs1407
-```
